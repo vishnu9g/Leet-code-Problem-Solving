@@ -10,9 +10,9 @@ class Solution {
         int result = nums[0];
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] < 0) {
-                int temp = maxProduct;
-                maxProduct = minProduct;
-                minProduct = temp;
+                 int temp = maxProduct;
+                 maxProduct = minProduct;
+                 minProduct = temp;
             }
 
 
