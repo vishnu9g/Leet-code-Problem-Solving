@@ -12,13 +12,13 @@ class Solution {
             sb.append(ch2[k]);
             k++;
         }
-        while(min<i){
-            sb.append(ch1[min]);
-            min++;
+        while(k<i){
+            sb.append(ch1[k]);
+            k++;
         }
-        while(min<j){
-            sb.append(ch2[min]);
-            min++;
+        while(k<j){
+            sb.append(ch2[k]);
+            k++;
         }
         return sb.toString();
     }
