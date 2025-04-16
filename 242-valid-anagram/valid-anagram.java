@@ -4,9 +4,9 @@ class Solution {
         char[] c2 = t.toCharArray();
         Arrays.sort(c1);
         Arrays.sort(c2);
-            if(Arrays.equals(c1,c2)){
-                return true;
-            }
+        if(Arrays.equals(c1,c2)){
+            return true;
+        }
         return false;
     }
 }
