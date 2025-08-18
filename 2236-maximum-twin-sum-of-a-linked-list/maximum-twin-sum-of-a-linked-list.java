@@ -19,8 +19,7 @@ class Solution {
         int b = a.size()-1;
         int max = 0;
         while(a1<b){
-            int sum = a.get(a1)+a.get(b);
-            max=Math.max(max,sum);
+            max=Math.max(max,a.get(a1)+a.get(b));
             a1++;
             b--;
         }
