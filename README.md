@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
