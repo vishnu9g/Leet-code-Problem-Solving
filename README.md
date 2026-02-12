@@ -16,13 +16,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
