@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0178-rank-scores) |
+## Array
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
