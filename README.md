@@ -2,51 +2,52 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0178-rank-scores](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0178-rank-scores) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
