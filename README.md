@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
