@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
