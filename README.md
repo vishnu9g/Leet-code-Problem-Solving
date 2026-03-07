@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3280-convert-date-to-binary/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3280-convert-date-to-binary](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3280-convert-date-to-binary/) | Easy |
 <!---LeetCode Topics End-->
