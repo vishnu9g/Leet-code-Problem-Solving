@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3340-check-balanced-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3340-check-balanced-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
