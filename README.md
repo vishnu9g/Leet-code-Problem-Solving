@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3340-check-balanced-string/) | Easy |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2239-find-closest-number-to-zero/) | Easy |
