@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3280-convert-date-to-binary](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3280-convert-date-to-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
