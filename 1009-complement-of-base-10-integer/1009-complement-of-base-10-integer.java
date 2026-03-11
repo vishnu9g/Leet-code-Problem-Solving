@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<k.length();i++){
             char ch = k.charAt(i);
             if(ch=='0') r+='1';
-            if(ch=='1') r+='0';
+            else r+='0';
         }
         return Integer.parseInt(r,2);
     }
