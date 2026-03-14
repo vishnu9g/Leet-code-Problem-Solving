@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 <!---LeetCode Topics End-->
