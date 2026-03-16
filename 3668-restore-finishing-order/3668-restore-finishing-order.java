@@ -5,12 +5,12 @@ class Solution {
         int k = 0;
         for(int i=0;i<order.length;i++){
             for(int j=0;j<friends.length;j++){
-                    if(!b[j]){
+                    //if(!b[j]){
                         if(order[i]==friends[j]){
                             arr[k++]=order[i];
-                            b[j]=true;
+                            //b[j]=true;
                         }
-                    }
+                   // }
             }
         }
         return arr;
