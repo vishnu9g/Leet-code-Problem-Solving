@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 | [0812-rotate-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0812-rotate-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3668-restore-finishing-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3668-restore-finishing-order/) | Easy |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Stack
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
