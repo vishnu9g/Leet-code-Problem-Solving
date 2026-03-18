@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Enumeration
 | Problem Name | Difficulty |
