@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3668-restore-finishing-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
