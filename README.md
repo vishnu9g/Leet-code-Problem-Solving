@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3668-restore-finishing-order/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
