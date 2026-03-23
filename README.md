@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1436-destination-city](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1436-destination-city/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
