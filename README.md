@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3668-restore-finishing-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3668-restore-finishing-order/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
