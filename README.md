@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1436-destination-city/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1436-destination-city](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1436-destination-city/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
