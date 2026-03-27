@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 <!---LeetCode Topics End-->
