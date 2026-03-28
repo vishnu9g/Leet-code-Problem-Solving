@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1436-destination-city](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1436-destination-city/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1436-destination-city](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0443-string-compression/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2974-minimum-number-game](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/2974-minimum-number-game/) | Easy |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vishnu9g/Leet-code-Problem-Solving/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
